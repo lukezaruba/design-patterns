@@ -8,35 +8,35 @@ Learning design patterns in Python, based on this [guide](https://refactoring.gu
 
 These patterns allow for efficient communication between objects.
 
-- [ ] Chain of Responsibility
+- [ ] ~~Chain of Responsibility~~
 - [ ] Command
 - [ ] Iterator
-- [ ] Mediator
-- [ ] Memento
+- [ ] ~~Mediator~~
+- [ ] ~~Memento~~
 - [ ] Observer
-- [ ] State
+- [ ] ~~State~~
 - [ ] Strategy
-- [ ] Template Method
-- [ ] Visitor
+- [ ] ~~Template Method~~
+- [ ] ~~Visitor~~
 
 ### Creational
 
 These patterns allow for flexible object creation.
 
 - [x] Abstract Factory
-- [ ] Builder
-- [ ] Factory Method
-- [ ] Prototype
-- [ ] Singleton
+- [x] Builder
+- [x] Factory Method
+- [ ] ~~Prototype~~
+- [ ] ~~Singleton~~
 
 ### Structural
 
 These patterns allow objects to be built off of one another into bigger objects.
 
 - [ ] Adapter
-- [ ] Bridge
-- [ ] Composite
-- [ ] Decorator
-- [ ] Facade
-- [ ] Flyweight
-- [ ] Proxy
+- [ ] ~~Bridge~~
+- [ ] ~~Composite~~
+- [ ] ~~Decorator~~
+- [ ] ~~Facade~~
+- [ ] ~~Flyweight~~
+- [ ] ~~Proxy~~
